@@ -1,1 +1,1 @@
-# JavaFX
+# JavaFX AddressBook Project using MySql
